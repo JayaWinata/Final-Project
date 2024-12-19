@@ -58,7 +58,7 @@ The project leverages the following Python libraries:
 
 ## Results
 
-The LSTM model successfully achieved an **accuracy of 85%**, demonstrating its capability to classify sentiments effectively. The model performed particularly well on longer reviews, where context played a significant role in sentiment determination.
+The LSTM model successfully achieved an **accuracy of 82%**, demonstrating its capability to classify sentiments effectively. The model performed particularly well on longer reviews, where context played a significant role in sentiment determination.
 
 ---
 
